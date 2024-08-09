@@ -1,7 +1,3 @@
-Here’s the updated `README.md` with extended explanations for DSPy and LanceDB, and the removal of Torch, Ollama, and GPT:
-
----
-
 # BeatyPets RAG System
 
 Welcome to the BeatyPets Retrieval-Augmented Generation (RAG) System! This project showcases the integration of advanced natural language processing techniques with a robust data management system to create an intelligent question-answering model for a fictional pet shop, BeatyPets. The system is designed to retrieve relevant information from a structured database and generate accurate, context-aware responses using state-of-the-art machine learning models.
@@ -47,7 +43,3 @@ To get started with this project, clone the repository and follow the instructio
 ## Conclusion
 
 The BeatyPets RAG System is a powerful example of how modern AI techniques can be applied to create intelligent, responsive systems that understand and generate human-like text. Whether you're building a customer support chatbot, an intelligent FAQ system, or a personalized virtual assistant, the tools and techniques used in this project provide a solid foundation for creating advanced natural language processing applications.
-
----
-
-This version of the `README.md` focuses on the core technologies used in your project, DSPy and LanceDB, providing an in-depth explanation of their roles and strengths. It ensures that users understand the importance of these technologies in building the BeatyPets RAG System.
