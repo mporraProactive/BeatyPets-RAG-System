@@ -31,10 +31,10 @@ In the BeatyPets RAG System, LanceDB serves as the backbone for data storage and
 ## Project Structure
 
 - **Schema Definition**: Defines the structure of the data stored in LanceDB, including text and vector embeddings.
-- **ContractVectorstore**: Handles the storage and retrieval of context data in LanceDB, ensuring that the most relevant information is available for question answering.
+- **Vectorstore**: Handles the storage and retrieval of context data in LanceDB, ensuring that the most relevant information is available for question answering.
 - **RAG Module**: Integrates the retrieval and generation steps to produce accurate and contextually relevant answers.
 - **EvaluatorRAG**: Assesses the accuracy and reasoning behind the generated answers, ensuring that responses are not only correct but also logically sound.
-- **ChainedEvaluatorRAG**: Combines both the RAG module and the evaluation process into a seamless operation that retrieves, generates, and evaluates answers in one continuous workflow.
+- **RAG_Assitant**: Combines both the RAG module and the evaluation process into a seamless operation that retrieves, generates, and evaluates answers in one continuous workflow.
 
 ## Getting Started
 
