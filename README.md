@@ -6,7 +6,7 @@ Welcome to the BeatyPets Retrieval-Augmented Generation (RAG) System! This proje
 
 The BeatyPets RAG System is built using a combination of cutting-edge technologies:
 
-- **DSPy**: A powerful data science library that facilitates model training, evaluation, and deployment.
+- **DSPy**: A framework for algorithmically optimizing LM prompts and weight.
 - **LanceDB**: A high-performance, multi-modal database optimized for machine learning applications.
 
 The system is designed to simulate a real-world application where customers can ask questions related to pet care, services, products, and more. The system retrieves the most relevant information from a structured database and generates a well-informed response.
